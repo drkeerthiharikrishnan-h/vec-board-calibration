@@ -1,0 +1,148 @@
+{
+ "T1:val": {
+  "floor->": 50.0,
+  "ceiling->": 100.0,
+  "beyond_ceiling->": 100.0,
+  "all_missing->": 0.0,
+  "sum_w": 100.0
+ },
+ "T2:heart:val_extrap": {
+  "floor->": 50.0,
+  "ceiling->": 100.0,
+  "beyond_ceiling->": 100.0,
+  "all_missing->": 0.0,
+  "sum_w": 100.0
+ },
+ "T3:gata4": {
+  "floor->": 50.0,
+  "ceiling->": 100.0,
+  "beyond_ceiling->": 100.0,
+  "all_missing->": 0.0,
+  "sum_w": 100.0
+ },
+ "two_sided_severity": {
+  "-0.0088": 1.0,
+  "+0.0088": 1.0,
+  "0.0": 1.0
+ },
+ "R1_headline_from_weights": {
+  "published": 57.6485,
+  "recomputed": 57.6485
+ },
+ "T2_board_records": [
+  {
+   "id": "HX1",
+   "board": "heart_extrap",
+   "published": 52.6931,
+   "recomputed": 52.6931,
+   "diff": -0.0
+  },
+  {
+   "id": "HX2",
+   "board": "heart_extrap",
+   "published": 52.9399,
+   "recomputed": 52.9399,
+   "diff": 0.0
+  },
+  {
+   "id": "HX3",
+   "board": "heart_extrap",
+   "published": 53.2825,
+   "recomputed": 53.2825,
+   "diff": 0.0
+  },
+  {
+   "id": "HI1",
+   "board": "heart_interp",
+   "published": 50.7271,
+   "recomputed": 52.0077,
+   "diff": -1.2806
+  },
+  {
+   "id": "HI2",
+   "board": "heart_interp",
+   "published": 55.439,
+   "recomputed": 55.439,
+   "diff": 0.0
+  },
+  {
+   "id": "HI3",
+   "board": "heart_interp",
+   "published": 47.7366,
+   "recomputed": 49.855,
+   "diff": -2.1184
+  },
+  {
+   "id": "EI1",
+   "board": "embryo_interp",
+   "published": 54.4216,
+   "recomputed": 55.2157,
+   "diff": -0.7941
+  },
+  {
+   "id": "EI2",
+   "board": "embryo_interp",
+   "published": 58.9629,
+   "recomputed": 58.9629,
+   "diff": -0.0
+  }
+ ],
+ "T3_board_records": [
+  {
+   "id": "G1",
+   "board": "gata4",
+   "published": 48.3638,
+   "recomputed": 48.3638,
+   "diff": 0.0
+  },
+  {
+   "id": "G2",
+   "board": "gata4",
+   "published": 47.9388,
+   "recomputed": 47.9388,
+   "diff": 0.0
+  },
+  {
+   "id": "G3",
+   "board": "gata4",
+   "published": 48.5227,
+   "recomputed": 48.5227,
+   "diff": 0.0
+  },
+  {
+   "id": "G4",
+   "board": "gata4",
+   "published": 48.4089,
+   "recomputed": 48.4089,
+   "diff": -0.0
+  },
+  {
+   "id": "G5",
+   "board": "gata4",
+   "published": 46.2425,
+   "recomputed": 46.2425,
+   "diff": -0.0
+  },
+  {
+   "id": "G6",
+   "board": "gata4",
+   "published": 48.1527,
+   "recomputed": 48.1527,
+   "diff": -0.0
+  },
+  {
+   "id": "G7",
+   "board": "gata4",
+   "published": 45.9931,
+   "recomputed": 45.9931,
+   "diff": 0.0
+  },
+  {
+   "id": "G8",
+   "board": "gata4",
+   "published": 47.9529,
+   "recomputed": 47.9529,
+   "diff": 0.0
+  }
+ ]
+}
